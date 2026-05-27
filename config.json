@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerrave",
+        "uuid": 29003243,
+        "checksum": "1uzpf"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
